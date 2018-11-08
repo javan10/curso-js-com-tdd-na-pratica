@@ -12,5 +12,13 @@
     "library"
   ],
   "author": "Javan Castro <javan1000@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javan10/curso-js-com-tdd-na-pratica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/javan10/curso-js-com-tdd-na-pratica/issues"
+  },
+  "homepage": "https://github.com/javan10/curso-js-com-tdd-na-pratica#readme"
 }
